@@ -1,0 +1,22 @@
+h1{
+    background-color: beige;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 80px;
+}
+h2{
+    background-color: burlywood;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+    font-size: 30px;
+    
+}
+ul h3{
+    background-color: rgb(245, 245, 226);
+    text-align: center;
+    font-size: 32px;
+}
+ul h3 a{
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
